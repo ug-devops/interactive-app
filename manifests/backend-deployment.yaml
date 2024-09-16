@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: your-dockerhub-username/backend:latest  # Replace with your Docker Hub image
+          image: usman10p/backend:latest  # Replace with your Docker Hub image
           ports:
             - containerPort: 4000
 ---
