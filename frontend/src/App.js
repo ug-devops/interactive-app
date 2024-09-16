@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App" style={{ backgroundColor: color }}>
       <header className="App-header">
-        <h1>Interactive React App</h1>
+        <h1>Usman React App</h1>
         <p>This is a simple interactive app deployed on ArgoCD!</p>
         <button className="App-button" onClick={handleButtonClick}>Change Background Color</button>
         <button className="App-button" onClick={() => alert('Button Clicked!')}>Click Me</button>
